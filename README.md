@@ -2,7 +2,7 @@
 
 Rwear is a Flutter application designed for a modern streetwear thrift shopping experience. Built in just four days, it delivers a clean interface, smooth navigation, and a minimal aesthetic.  
 
-![App_Mockup](https://drive.google.com/file/d/1menPnA0XyKS3rUbhnbNMmjIVEIDNgdLS/view?usp=sharing)
+![App_Mockup](file:///Users/mac/Downloads/Rwear_Mockup.png)
 
 ---
 
